@@ -15,7 +15,11 @@ public class OOP_Project {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       int x=50;
+       int y=90;
+       int sum=x+y;
+       System.out.println(sum);
+       
     }
     
 }
