@@ -19,6 +19,7 @@ public class OOP_Project {
        int y=90;
        int sum=x+y;
        System.out.println(sum);
+       try_git t=new try_git();
        
     }
     
